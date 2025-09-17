@@ -1,0 +1,1 @@
+export const COLORS = { primary: '#4CAF50', secondary: '#E6FFE6', text: '#111', muted: '#666', border: '#ddd', bg: '#fff' };
